@@ -1,0 +1,14 @@
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\bin\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.exe
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\bin\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.deps.json
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\bin\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.runtimeconfig.json
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\bin\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.runtimeconfig.dev.json
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\bin\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.dll
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\bin\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.pdb
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\obj\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\obj\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.AssemblyInfo.cs
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\obj\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.dll
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\obj\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.pdb
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\obj\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\bin\Debug\netcoreapp3.0\WizkidsTest.Tasks.dll
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\bin\Debug\netcoreapp3.0\WizkidsTest.Tasks.pdb
+C:\Users\rogza\Desktop\Rogerio\Projects\Wizkids\WizkidsTest\WizkidsTest.ConsoleUI\obj\Debug\netcoreapp3.0\WizkidsTest.ConsoleUI.csproj.CopyComplete
